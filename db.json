@@ -22,6 +22,7 @@
       "issueId": 1704,
       "permalink": "/category.html?issueId=1704",
       "pdf": "/issue1704.pdf",
+      "urlTitle": "winter-2017",
       "title": "Winter 2017",
       "image": "/placeholders/temp_issue_cover_winter_17.jpg",
       "logoOverride": "/logo-override/IN-KOLN-WHITE.svg",
@@ -32,6 +33,7 @@
       "issueId": 1703,
       "permalink": "/category.html?issueId=1703",
       "pdf": "/issue1703.pdf",
+      "utlTitle": "autumn-2017",
       "title": "Autumn 2017",
       "image": "/placeholders/temp_issue_cover_autumn_17.jpg",
       "logoOverride": "/logo-override/IN-KOLN-WHITE.svg",
@@ -42,6 +44,7 @@
       "issueId": 1702,
       "permalink": "category.html?issueId=1702",
       "pdf": "/issue1702.pdf",
+      "urlTitle": "summer-2017-longer-than-13-chars",
       "title": "Summer 2017 Longer than 13 Chars",
       "image": "/placeholders/temp_issue_cover_summer_17.jpg",
       "categories": [1002, 1003, 1004, 1005],
@@ -51,6 +54,7 @@
       "issueId": 1701,
       "permalink": "category.html?issueId=1701",
       "pdf": "/issue1701.pdf",
+      "urlTitle": "spring-2017",
       "title": "Spring 2017",
       "image": "/placeholders/temp_issue_cover_spring_17.jpg",
       "categories": [1001, 1002, 1003, 1004],
@@ -60,6 +64,7 @@
       "issueId": 1604,
       "permalink": "category.html?issueId=1604",
       "pdf": "/issue1604.pdf",
+      "urlTitle": "winter-2016",
       "title": "Winter 2016",
       "image": "/placeholders/temp_issue_cover_winter_16.jpg",
       "categories": [1001],
@@ -69,6 +74,7 @@
       "issueId": 1603,
       "permalink": "category.html?issueId=1603",
       "pdf": "/issue1603.pdf",
+      "urlTitle": "autumn-2016",
       "title": "Autumn 2016",
       "image": "/placeholders/temp_issue_cover_winter_17.jpg",
       "categories": [1001, 1002, 1003],
@@ -78,6 +84,7 @@
       "issueId": 1602,
       "permalink": "category.html?issueId=1602",
       "pdf": "/issue1602.pdf",
+      "urlTitle": "summer-2016",
       "title": "Summer 2016",
       "image": "/placeholders/temp_issue_cover_winter_17.jpg",
       "categories": [1001, 1002, 1003],
@@ -87,6 +94,7 @@
       "issueId": 1601,
       "permalink": "category.html?issueId=1601",
       "pdf": "/issue1601.pdf",
+      "urlTitle": "spring-2016",
       "title": "Spring 2016",
       "image": "/placeholders/temp_issue_cover_autumn_17.jpg",
       "categories": [1001, 1004, 1005],
@@ -96,6 +104,7 @@
       "issueId": 1504,
       "permalink": "category.html?issueId=1504",
       "pdf": "/issue1504.pdf",
+      "urlTitle": "winter-2015",
       "title": "Winter 2015",
       "image": "/placeholders/temp_issue_cover_summer_17.jpg",
       "categories": [1002, 1003, 1004, 1005],
@@ -105,22 +114,27 @@
   "categories": [
     {
       "catId": 1001,
+      "urlName": "alfa-alfa-alfa",
       "name": "Alfa Alfa Alfa"
     },
     {
       "catId": 1002,
+      "urlName": "bravo-bravo-bravo",
       "name": "Bravo Bravo Bravo"
     },
     {
       "catId": 1003,
+      "urlName": "charlie-charlie-charlie",
       "name": "Charlie Charlie Charlie"
     },
     {
       "catId": 1004,
+      "urlName": "delta-delta-delta",
       "name": "Delta Delta Delta"
     },
     {
       "catId": 1005,
+      "urlName": "foxtrot-foxtrot-foxtrot",
       "name": "Foxtrot Foxtrot Foxtrot"
     }
   ],
@@ -131,6 +145,7 @@
       "issueId": 1704,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "mauris-augue-nisi-porta-at-convallis-170401",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
     },
@@ -140,6 +155,7 @@
       "issueId": 1704,
       "catId": 1002,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "sed-varius-erat-eget-mauris-tempus-170402",
       "title": "Sed varius erat eget mauris tempus",
       "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
     },
@@ -149,6 +165,7 @@
       "issueId": 1704,
       "catId": 1003,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "praesent-cursus-bibendum-tempor-170403",
       "title": "Praesent cursus bibendum tempor.",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
     },
@@ -158,6 +175,7 @@
       "issueId": 1704,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
+      "UrlTitle": "mauris-augue-nisi-porta-at-convallis-170404",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
     },
@@ -167,6 +185,7 @@
       "issueId": 1703,
       "catId": 1004,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "mauris-augue-nisi-porta-at-convallis-170301",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
     },
@@ -176,6 +195,7 @@
       "issueId": 1703,
       "catId": 1005,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "sed-varius-erat-eget-mauris-tempus-170302",
       "title": "Sed varius erat eget mauris tempus",
       "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
     },
@@ -185,6 +205,7 @@
       "issueId": 1703,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "praesent-cursus-bibendum-tempor-170302",
       "title": "Praesent cursus bibendum tempor.",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
     },
@@ -194,6 +215,7 @@
       "issueId": 1703,
       "catId": 1002,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "mauris-augue-nisi-porta-at-convallis-170304",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
     },
@@ -203,6 +225,7 @@
       "issueId": 1702,
       "catId": 1002,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "mauris-augue-nisi-porta-at-convallis-170201",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
     },
@@ -212,6 +235,7 @@
       "issueId": 1702,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "sed-varius-erat-eget-mauris-tempus-170202",
       "title": "Sed varius erat eget mauris tempus",
       "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
     },
@@ -221,6 +245,7 @@
       "issueId": 1702,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "praesent-cursus-bibendum-tempor-170203",
       "title": "Praesent cursus bibendum tempor.",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
     },
@@ -230,6 +255,7 @@
       "issueId": 1702,
       "catId": 1003,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "mauris-augue-nisi-porta-at-convallis-170203",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
     },
@@ -239,6 +265,7 @@
       "issueId": 1701,
       "catId": 1003,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "mauris-augue-nisi-porta-at-convallis-170101",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
     },
@@ -248,6 +275,7 @@
       "issueId": 1701,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "sed-varius-erat-eget-mauris-tempus-170102",
       "title": "Sed varius erat eget mauris tempus",
       "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
     },
@@ -257,6 +285,7 @@
       "issueId": 1701,
       "catId": 1003,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "praesent-cursus-bibendum-tempor-170103",
       "title": "Praesent cursus bibendum tempor.",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
     },
@@ -266,6 +295,7 @@
       "issueId": 1701,
       "catId": 1005,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "mauris-augue-nisi-porta-at-convallis-170104",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
     },
@@ -275,6 +305,7 @@
       "issueId": 1604,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
+      "urlTitle": "mauris-augue-nisi-porta-at-convallis-160401",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
     }
