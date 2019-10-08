@@ -63,7 +63,7 @@
       "title": "Winter 2016",
       "image": "/placeholders/temp_issue_cover_winter_16.jpg",
       "categories": [1001],
-      "featuredArticles": [160401]
+      "featuredArticles": [160404]
     },
     {
       "issueId": 1603,
@@ -273,15 +273,6 @@
       "urlTitle": "mauris-augue-nisi-porta-at-convallis-170104",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
-    },
-    {
-      "articleId": 160401,
-      "issueId": 1604,
-      "catId": 1001,
-      "image": "http://via.placeholder.com/360x360/",
-      "urlTitle": "mauris-augue-nisi-porta-at-convallis-160401",
-      "title": "Mauris augue nisi, porta at convallis",
-      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
     }
   ],
   "profile": {
