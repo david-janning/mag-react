@@ -20,7 +20,6 @@
   "issues": [
     {
       "issueId": 1704,
-      "permalink": "/category.html?issueId=1704",
       "pdf": "/issue1704.pdf",
       "urlTitle": "winter-2017",
       "title": "Winter 2017",
@@ -31,7 +30,6 @@
     },
     {
       "issueId": 1703,
-      "permalink": "/category.html?issueId=1703",
       "pdf": "/issue1703.pdf",
       "utlTitle": "autumn-2017",
       "title": "Autumn 2017",
@@ -42,7 +40,6 @@
     },
     {
       "issueId": 1702,
-      "permalink": "category.html?issueId=1702",
       "pdf": "/issue1702.pdf",
       "urlTitle": "summer-2017-longer-than-13-chars",
       "title": "Summer 2017 Longer than 13 Chars",
@@ -52,7 +49,6 @@
     },
     {
       "issueId": 1701,
-      "permalink": "category.html?issueId=1701",
       "pdf": "/issue1701.pdf",
       "urlTitle": "spring-2017",
       "title": "Spring 2017",
@@ -62,7 +58,6 @@
     },
     {
       "issueId": 1604,
-      "permalink": "category.html?issueId=1604",
       "pdf": "/issue1604.pdf",
       "urlTitle": "winter-2016",
       "title": "Winter 2016",
@@ -72,7 +67,6 @@
     },
     {
       "issueId": 1603,
-      "permalink": "category.html?issueId=1603",
       "pdf": "/issue1603.pdf",
       "urlTitle": "autumn-2016",
       "title": "Autumn 2016",
@@ -82,7 +76,6 @@
     },
     {
       "issueId": 1602,
-      "permalink": "category.html?issueId=1602",
       "pdf": "/issue1602.pdf",
       "urlTitle": "summer-2016",
       "title": "Summer 2016",
@@ -92,7 +85,6 @@
     },
     {
       "issueId": 1601,
-      "permalink": "category.html?issueId=1601",
       "pdf": "/issue1601.pdf",
       "urlTitle": "spring-2016",
       "title": "Spring 2016",
@@ -102,7 +94,6 @@
     },
     {
       "issueId": 1504,
-      "permalink": "category.html?issueId=1504",
       "pdf": "/issue1504.pdf",
       "urlTitle": "winter-2015",
       "title": "Winter 2015",
@@ -142,7 +133,6 @@
     {
       "articleId": 170401,
       "permalink": "/article.html",
-      "issueId": 1704,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
       "urlTitle": "mauris-augue-nisi-porta-at-convallis-170401",
@@ -151,7 +141,6 @@
     },
     {
       "articleId": 170402,
-      "permalink": "/article.html",
       "issueId": 1704,
       "catId": 1002,
       "image": "http://via.placeholder.com/360x360/",
@@ -161,7 +150,6 @@
     },
     {
       "articleId": 170403,
-      "permalink": "/article.html",
       "issueId": 1704,
       "catId": 1003,
       "image": "http://via.placeholder.com/360x360/",
@@ -171,7 +159,6 @@
     },
     {
       "articleId": 170404,
-      "permalink": "/article.html",
       "issueId": 1704,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -181,7 +168,6 @@
     },
     {
       "articleId": 170301,
-      "permalink": "/article.html",
       "issueId": 1703,
       "catId": 1004,
       "image": "http://via.placeholder.com/360x360/",
@@ -191,7 +177,6 @@
     },
     {
       "articleId": 170302,
-      "permalink": "/article.html",
       "issueId": 1703,
       "catId": 1005,
       "image": "http://via.placeholder.com/360x360/",
@@ -201,7 +186,6 @@
     },
     {
       "articleId": 170303,
-      "permalink": "/article.html",
       "issueId": 1703,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -211,7 +195,6 @@
     },
     {
       "articleId": 170304,
-      "permalink": "/article.html",
       "issueId": 1703,
       "catId": 1002,
       "image": "http://via.placeholder.com/360x360/",
@@ -221,7 +204,6 @@
     },
     {
       "articleId": 170201,
-      "permalink": "/article.html",
       "issueId": 1702,
       "catId": 1002,
       "image": "http://via.placeholder.com/360x360/",
@@ -231,7 +213,6 @@
     },
     {
       "articleId": 170202,
-      "permalink": "/article.html",
       "issueId": 1702,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -241,7 +222,6 @@
     },
     {
       "articleId": 170203,
-      "permalink": "/article.html",
       "issueId": 1702,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -261,7 +241,6 @@
     },
     {
       "articleId": 170101,
-      "permalink": "/article.html",
       "issueId": 1701,
       "catId": 1003,
       "image": "http://via.placeholder.com/360x360/",
@@ -271,7 +250,6 @@
     },
     {
       "articleId": 170102,
-      "permalink": "/article.html",
       "issueId": 1701,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -281,7 +259,6 @@
     },
     {
       "articleId": 170103,
-      "permalink": "/article.html",
       "issueId": 1701,
       "catId": 1003,
       "image": "http://via.placeholder.com/360x360/",
@@ -291,7 +268,6 @@
     },
     {
       "articleId": 170104,
-      "permalink": "/article.html",
       "issueId": 1701,
       "catId": 1005,
       "image": "http://via.placeholder.com/360x360/",
@@ -301,7 +277,6 @@
     },
     {
       "articleId": 160401,
-      "permalink": "/article.html",
       "issueId": 1604,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
