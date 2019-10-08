@@ -105,28 +105,28 @@
   "categories": [
     {
       "catId": 1001,
-      "urlName": "alfa-alfa-alfa",
-      "name": "Alfa Alfa Alfa"
+      "urlTitle": "alfa-alfa-alfa",
+      "title": "Alfa Alfa Alfa"
     },
     {
       "catId": 1002,
-      "urlName": "bravo-bravo-bravo",
-      "name": "Bravo Bravo Bravo"
+      "urlTitle": "bravo-bravo-bravo",
+      "title": "Bravo Bravo Bravo"
     },
     {
       "catId": 1003,
-      "urlName": "charlie-charlie-charlie",
-      "name": "Charlie Charlie Charlie"
+      "urlTitle": "charlie-charlie-charlie",
+      "title": "Charlie Charlie Charlie"
     },
     {
       "catId": 1004,
-      "urlName": "delta-delta-delta",
-      "name": "Delta Delta Delta"
+      "urlTitle": "delta-delta-delta",
+      "title": "Delta Delta Delta"
     },
     {
       "catId": 1005,
-      "urlName": "foxtrot-foxtrot-foxtrot",
-      "name": "Foxtrot Foxtrot Foxtrot"
+      "urlTitle": "foxtrot-foxtrot-foxtrot",
+      "title": "Foxtrot Foxtrot Foxtrot"
     }
   ],
   "articles": [
