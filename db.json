@@ -132,6 +132,7 @@
   "articles": [
     {
       "articleId": 170401,
+      "issueId": 1704,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
       "urlTitle": "mauris-augue-nisi-porta-at-convallis-170401",
