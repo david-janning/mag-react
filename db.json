@@ -132,6 +132,7 @@
   "articles": [
     {
       "articleId": 170401,
+      "permalink": "article.html",
       "issueId": 1704,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -141,6 +142,7 @@
     },
     {
       "articleId": 170402,
+      "permalink": "article.html",
       "issueId": 1704,
       "catId": 1002,
       "image": "http://via.placeholder.com/360x360/",
@@ -150,6 +152,7 @@
     },
     {
       "articleId": 170403,
+      "permalink": "article.html",
       "issueId": 1704,
       "catId": 1003,
       "image": "http://via.placeholder.com/360x360/",
@@ -159,6 +162,7 @@
     },
     {
       "articleId": 170404,
+      "permalink": "article.html",
       "issueId": 1704,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -168,6 +172,7 @@
     },
     {
       "articleId": 170301,
+      "permalink": "article.html",
       "issueId": 1703,
       "catId": 1004,
       "image": "http://via.placeholder.com/360x360/",
@@ -177,6 +182,7 @@
     },
     {
       "articleId": 170302,
+      "permalink": "article.html",
       "issueId": 1703,
       "catId": 1005,
       "image": "http://via.placeholder.com/360x360/",
@@ -186,6 +192,7 @@
     },
     {
       "articleId": 170303,
+      "permalink": "article.html",
       "issueId": 1703,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -195,6 +202,7 @@
     },
     {
       "articleId": 170304,
+      "permalink": "article.html",
       "issueId": 1703,
       "catId": 1002,
       "image": "http://via.placeholder.com/360x360/",
@@ -204,6 +212,7 @@
     },
     {
       "articleId": 170201,
+      "permalink": "article.html",
       "issueId": 1702,
       "catId": 1002,
       "image": "http://via.placeholder.com/360x360/",
@@ -213,6 +222,7 @@
     },
     {
       "articleId": 170202,
+      "permalink": "article.html",
       "issueId": 1702,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -222,6 +232,7 @@
     },
     {
       "articleId": 170203,
+      "permalink": "article.html",
       "issueId": 1702,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -241,6 +252,7 @@
     },
     {
       "articleId": 170101,
+      "permalink": "article.html",
       "issueId": 1701,
       "catId": 1003,
       "image": "http://via.placeholder.com/360x360/",
@@ -250,6 +262,7 @@
     },
     {
       "articleId": 170102,
+      "permalink": "article.html",
       "issueId": 1701,
       "catId": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -259,6 +272,7 @@
     },
     {
       "articleId": 170103,
+      "permalink": "article.html",
       "issueId": 1701,
       "catId": 1003,
       "image": "http://via.placeholder.com/360x360/",
@@ -268,6 +282,7 @@
     },
     {
       "articleId": 170104,
+      "permalink": "article.html",
       "issueId": 1701,
       "catId": 1005,
       "image": "http://via.placeholder.com/360x360/",
