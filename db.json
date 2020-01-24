@@ -23,7 +23,7 @@
       "pdf": "/issue1704.pdf",
       "urlTitle": "winter-2017",
       "title": "Winter 2017",
-      "image": "/placeholders/temp_issue_cover_winter_17.jpg",
+      "image": "temp_issue_cover_winter_17.jpg",
       "logoOverride": "/logo-override/IN-KOLN-WHITE.svg",
       "categories": [1001, 1002, 1003],
       "featuredArticles": [170401, 170402, 170403, 170404]
@@ -33,7 +33,7 @@
       "pdf": "/issue1703.pdf",
       "urlTitle": "autumn-2017",
       "title": "Autumn 2017",
-      "image": "/placeholders/temp_issue_cover_autumn_17.jpg",
+      "image": "temp_issue_cover_autumn_17.jpg",
       "logoOverride": "/logo-override/IN-KOLN-WHITE.svg",
       "categories": [1001, 1004, 1005],
       "featuredArticles": [170301, 170302, 170303, 170304]
@@ -43,7 +43,7 @@
       "pdf": "/issue1702.pdf",
       "urlTitle": "summer-2017-longer-than-13-chars",
       "title": "Summer 2017 Longer than 13 Chars",
-      "image": "/placeholders/temp_issue_cover_summer_17.jpg",
+      "image": "temp_issue_cover_summer_17.jpg",
       "categories": [1002, 1003, 1004, 1005],
       "featuredArticles": [170201, 170202, 170203, 170204]
     },
@@ -61,7 +61,7 @@
       "pdf": "/issue1604.pdf",
       "urlTitle": "winter-2016",
       "title": "Winter 2016",
-      "image": "/placeholders/temp_issue_cover_winter_16.jpg",
+      "image": "temp_issue_cover_winter_16.jpg",
       "categories": [1001],
       "featuredArticles": [170403]
     },
@@ -70,7 +70,7 @@
       "pdf": "/issue1603.pdf",
       "urlTitle": "autumn-2016",
       "title": "Autumn 2016",
-      "image": "/placeholders/temp_issue_cover_winter_17.jpg",
+      "image": "temp_issue_cover_winter_17.jpg",
       "categories": [1001, 1002, 1003],
       "featuredArticles": [170401, 170402, 170403, 170404]
     },
@@ -79,7 +79,7 @@
       "pdf": "/issue1602.pdf",
       "urlTitle": "summer-2016",
       "title": "Summer 2016",
-      "image": "/placeholders/temp_issue_cover_winter_17.jpg",
+      "image": "temp_issue_cover_winter_17.jpg",
       "categories": [1001, 1002, 1003],
       "featuredArticles": [170401, 170402, 170403, 170404]
     },
@@ -88,7 +88,7 @@
       "pdf": "/issue1601.pdf",
       "urlTitle": "spring-2016",
       "title": "Spring 2016",
-      "image": "/placeholders/temp_issue_cover_autumn_17.jpg",
+      "image": "temp_issue_cover_autumn_17.jpg",
       "categories": [1001, 1004, 1005],
       "featuredArticles": [170301, 170302, 170303, 170304]
     },
@@ -97,7 +97,7 @@
       "pdf": "/issue1504.pdf",
       "urlTitle": "winter-2015",
       "title": "Winter 2015",
-      "image": "/placeholders/temp_issue_cover_summer_17.jpg",
+      "image": "temp_issue_cover_summer_17.jpg",
       "categories": [1002, 1003, 1004, 1005],
       "featuredArticles": [170201, 170202, 170203, 170204]
     }
